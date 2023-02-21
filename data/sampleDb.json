@@ -1,0 +1,207 @@
+{
+  "requisition": [
+    {
+      "requisitionId": 7351,
+      "dateOfReq": "2023-01-13",
+      "client": "kj",
+      "role": "angular",
+      "jobType": "Part-time",
+      "country": "India",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "postalCode": "600010",
+      "experience": "1",
+      "vacancy": "5",
+      "min": "99",
+      "max": "9998",
+      "jd": false,
+      "id": 4
+    },
+    {
+      "requisitionId": 4599,
+      "dateOfReq": "2023-02-11",
+      "client": "go",
+      "role": "React Developer",
+      "jobType": "Full-time",
+      "country": "USA",
+      "city": "Bangalore",
+      "state": "Tamil Nadu",
+      "postalCode": "600010",
+      "experience": "3",
+      "vacancy": "6",
+      "min": "3",
+      "max": "6",
+      "jd": false,
+      "id": 5
+    },
+    {
+      "requisitionId": 5248,
+      "dateOfReq": "2023-02-19",
+      "client": "125",
+      "role": "worddoc",
+      "jobType": "Part-time",
+      "country": "India",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "postalCode": "600002",
+      "experience": "6",
+      "vacancy": "9",
+      "min": "33",
+      "max": "97",
+      "jd": false,
+      "id": 6
+    },
+    {
+      "requisitionId": 6055,
+      "dateOfReq": "2023-02-05",
+      "client": "qbotica",
+      "role": "angular",
+      "jobType": "Full-time",
+      "country": "India",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "postalCode": "600001",
+      "experience": "3",
+      "vacancy": "6",
+      "min": "99",
+      "max": "997",
+      "jd": false,
+      "id": 7
+    },
+    {
+      "requisitionId": 6798,
+      "dateOfReq": "2023-02-11",
+      "client": "sg",
+      "role": "fsdg",
+      "jobType": "Full-time",
+      "country": "India",
+      "city": "Chennai",
+      "state": "Karnataka",
+      "postalCode": "600011",
+      "experience": "4",
+      "vacancy": "3",
+      "min": "4",
+      "max": "4",
+      "jd": false,
+      "id": 8
+    },
+    {
+      "requisitionId": 7605,
+      "dateOfReq": "2023-02-11",
+      "client": "Google",
+      "role": "React js",
+      "jobType": "Full-Time",
+      "country": "United States of America",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "postalCode": "85",
+      "experience": "6",
+      "vacancy": "8",
+      "min": "55",
+      "max": "628",
+      "jd": "",
+      "id": 9
+    }
+  ],
+  "country": [
+    {
+      "country_id": 1,
+      "country_sf": "IND",
+      "country_name": "India"
+    },
+    {
+      "country_id": 2,
+      "country_sf": "USA",
+      "country_name": "United States of America"
+    }
+  ],
+  "state": [
+    {
+      "state_id": 1,
+      "state_sf": "TN",
+      "state_name": "Tamil Nadu"
+    },
+    {
+      "state_id": 2,
+      "state_sf": "KL",
+      "state_name": "Kerala"
+    },
+    {
+      "state_id": 3,
+      "state_sf": "WS",
+      "state_name": "Washington"
+    }
+  ],
+  "city": [
+    {
+      "city_id": 1,
+      "city_sf": "CHE",
+      "city_name": "Chennai"
+    },
+    {
+      "city_id": 2,
+      "city_sf": "KOH",
+      "city_name": "Kochi"
+    },
+    {
+      "city_id": 3,
+      "city_sf": "WDC",
+      "city_name": "Washington DC"
+    }
+  ],
+  "client": [
+    {
+      "company_id": 1,
+      "company_name": "Google",
+      "company_type": 1,
+      "company_type_name": "Client"
+    },
+    {
+      "company_id": 2,
+      "company_name": "Microsoft",
+      "company_type": 2,
+      "company_type_name": "Own"
+    },
+    {
+      "company_id": 3,
+      "company_name": "Qspiders",
+      "company_type": 3,
+      "company_type_name": "Vendor"
+    }
+  ],
+  "jobType": [
+    {
+      "job_type_id": 1,
+      "job_type_sf": "FT",
+      "job_type_name": "Full-Time"
+    },
+    {
+      "job_type_id": 2,
+      "job_type_sf": "PT",
+      "job_type_name": "Part-Time"
+    },
+    {
+      "job_type_id": 3,
+      "job_type_sf": "ITN",
+      "job_type_name": "Intern"
+    }
+  ],
+  "jobTitle": [
+    {
+      "Job_Title_id": 1,
+      "Job_Title_Name": "React js"
+    },
+    {
+      "Job_Title_id": 2,
+      "Job_Title_Name": "Java"
+    },
+    {
+      "Job_Title_id": 3,
+      "Job_Title_Name": "Dot Net"
+    },
+    {
+      "Job_Title_id": 4,
+      "Job_Title_Name": "SQL"
+    }
+  ]
+}
